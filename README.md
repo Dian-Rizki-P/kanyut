@@ -1,6 +1,7 @@
-##### Update 30 Oktober 2021
+##### Update 07 November 2021
 ````
-Coded by : Dian Rizki Pratama
+Coded by : 
+Dian Rizki Pratama
 ````
 ## INSTALL SC :
 ````
